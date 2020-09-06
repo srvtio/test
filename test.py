@@ -8,3 +8,5 @@ data["kd2"] = [0.8, 0.9, 1.4]
 data["kd3"] = [0.8, 0.9, 1.4]
 
 print(data)
+print(data)
+print(data)
