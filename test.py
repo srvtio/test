@@ -6,3 +6,7 @@ data["name"] = ['upp', 'ueu', 'otaga']
 data["kd"] = [0.8, 0.9, 1.4]
 
 print(data)
+
+print("OK")
+
+print("お腹痛い")
